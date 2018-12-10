@@ -1,0 +1,37 @@
+name 			abbr 	ctry_id state_id 
+Maharashtra		MM	1101	1200
+Karnataka		KA	1101	1201
+Andhra Pradesh		AP	1101	1202
+Arunachal Pradesh	AR	1101	1203
+Assam			AS	1101	1204
+Bihar			BR	1101	1205
+Chhattisgarh		CH	1101	1206
+Goa			GA	1101	1207
+Gujarat			GJ	1101	1208
+Haryana			HR	1101	1209
+Himachal Pradesh	HP	1101	1210
+Jammu and Kashmir	JK	1101	1211
+Jharkhand		JH	1101	1212
+Kerala			KL	1101	1213
+Madhya Pradesh		MP	1101	1214
+Manipur			MN	1101	1215
+Meghalaya		ML	1101	1216
+Mizoram			MZ	1101	1217
+Nagaland		NL	1101	1218
+Odisha			OR	1101	1219
+Punjab			PB	1101	1220
+Rajasthan		RJ	1101	1221
+Sikkim			SK	1101	1222
+Tamil Nadu		TN	1101	1223
+Tripura			TR	1101	1224
+Uttarakhand		UT	1101	1225
+Uttar Pradesh		UP	1101	1226
+West Bengal		WB	1101	1227
+Andaman & Nicobar 	AN	1101	1228
+Dadra and Nagar Haveli	DN	1101	1229
+Daman and Diu		DD	1101	1230
+Delhi			DL	1101	1231
+Lakshadweep		LD	1101	1232
+Puducherry		PY	1101	1233
+Telangana		TG	1101	10267
+Chandigarh		CH	1101	10321
